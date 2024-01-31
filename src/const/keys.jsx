@@ -1,0 +1,1 @@
+export const GiphyAppKey = "O2iJGLGtGcKS6TxdH94E8c4a7Hk7cyi5";
